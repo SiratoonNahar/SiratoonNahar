@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiratoonNahar&size_weight=0.5&count_weight=0.5)
-## [![Siratoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiratoonNahar)](https://github.com/SiratoonNahar/github-readme-stats&show_icons=true)
+## [![Siratoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiratoonNahar&show_icons=true)](https://github.com/SiratoonNahar/github-readme-stats)
 
