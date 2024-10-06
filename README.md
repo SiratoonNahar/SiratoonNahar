@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi👋, I'm Siratoon Nahar
+
+
+## Full Stack Developer with expertise in scalable web applications, cutting-edge technologies, and collaborative team environments. Delivering high-quality software solutions with precision and attention to detail. Proven problem-solving skills and commitment to excellence. Results-driven and innovative
 
 <!--
 **SiratoonNahar/SiratoonNahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
