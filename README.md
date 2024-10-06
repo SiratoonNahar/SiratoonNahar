@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiratoonNahar&layout=donut) 
 [![Siratoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiratoonNahar&show_icons=true)](https://github.com/SiratoonNahar/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SiratoonNahar&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
 
 
