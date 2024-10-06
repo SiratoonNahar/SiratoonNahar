@@ -1,7 +1,7 @@
 ## Hi👋, I'm Siratoon Nahar
 
 
-##                                                       Full Stack Developer with expertise in scalable web applications, cutting-edge technologies, and collaborative team environments. Delivering high-quality software solutions with precision and attention to detail. Proven problem-solving skills and commitment to excellence. Results-driven and innovative.
+## Full Stack Developer with expertise in scalable web applications, cutting-edge technologies, and collaborative team environments. Delivering high-quality software solutions with precision and attention to detail. Proven problem-solving skills and commitment to excellence. Results-driven and innovative.
 
 <!--
 **SiratoonNahar/SiratoonNahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## [![Siratoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiratoonNahar)](https://github.com/SiratoonNahar/github-readme-stats)
