@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a clone of Reebok-website
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 📫 How to reach me: siratoonnahar@gmail.com
-- 💬 Ask me about HTML| CSS | JavaScript | React
+- 💬 Ask me about HTML | CSS | JavaScript | React
 
 ## Connect with me:
 [![LinkedIn](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-linkedin.svg)](https://www.linkedin.com/in/siratoon-nahar-7a1302214/)
