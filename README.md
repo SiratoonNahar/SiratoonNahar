@@ -1,7 +1,7 @@
 ## <p align="center"> Hi👋, I'm Siratoon Nahar </p>
 
 <p align="center"> A passionate Full Stack Developer</p>
-<p  align="center"> Aspiring Full Stack Developer with skills in building scalable web applications and using modern technologies. Works well in team environments to deliver high-quality software with care and accuracy. Strong problem-solving abilities and dedication to producing excellent results. Focused on finding solutions and being creative.</p>
+<p  align="center"> Aspiring Full Stack Developer with skills in building scalable web applications and using modern technologies. Works well in team environments to deliver high-quality software with care and accuracy. Strong problem-solving abilities and dedication to producing excellent results. Focused on finding solutions and being creative.</p> 
 
 
 - 🔭 I’m currently working on a clone of Reebok-website
