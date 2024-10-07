@@ -14,6 +14,10 @@
 [![LinkedIn](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-linkedin.svg)](https://www.linkedin.com/in/siratoon-nahar-7a1302214/)
 
 ## **Languages and Tools:**
+[![HTML](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-html.svg)](https://html.com)
+[![CSS](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-css-logo.svg)](https://css-tricks.com)
+
+
 
 
 <!--
