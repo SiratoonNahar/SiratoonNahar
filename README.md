@@ -22,6 +22,9 @@
 [<img src="https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/postman.svg" alt="Postman" width="96" height="96"/>](https://www.postman.com)
 [![React](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-react-native.svg)](https://reactjs.org)
 [<img src="https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/mongodb.svg" alt="MongoDB" width="96" height="96"/>](https://www.mongodb.com)
+[![MySQL](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-mysql.svg)](https://www.mysql.com)
+[![Git](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-git.svg)](https://git-scm.com)
+
 
 
 
