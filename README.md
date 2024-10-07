@@ -16,6 +16,8 @@
 ## **Languages and Tools:**
 [![HTML](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-html.svg)](https://html.com)
 [![CSS](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-css-logo.svg)](https://css-tricks.com)
+[![Tailwind CSS](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-tailwind-css.svg)](https://tailwindcss.com)
+
 
 
 
@@ -35,6 +37,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiratoonNahar&layout=donut) 
 
 [![Siratoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiratoonNahar&show_icons=true)](https://github.com/SiratoonNahar/github-readme-stats)
