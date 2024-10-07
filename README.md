@@ -17,6 +17,16 @@
 [![HTML](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-html.svg)](https://html.com)
 [![CSS](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-css-logo.svg)](https://css-tricks.com)
 [![Tailwind CSS](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-tailwind-css.svg)](https://tailwindcss.com)
+[![JavaScript](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Firebase](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-firebase.svg)](https://firebase.google.com)
+[<img src="https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/postman.svg" alt="Postman" width="96" height="96"/>](https://www.postman.com)
+[![React](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-react-native.svg)](https://reactjs.org)
+[<img src="https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/mongodb.svg" alt="MongoDB" width="96" height="96"/>](https://www.mongodb.com)
+
+
+
+
+
 
 
 
