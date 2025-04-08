@@ -4,11 +4,11 @@
 <p align="center"> Aspiring Full Stack Developer with skills in building scalable web applications and using modern technologies. Works well in team environments to deliver high-quality software with care and accuracy. Strong problem-solving abilities and dedication to producing excellent results. Focused on finding solutions and being creative.</p> 
 
 
-- 🔭 I’m currently working on a clone of Reebok-website
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🔭 I’m currently working at Travelxp.
+- 🌱 I have completed **Full Stack Web Development** course.
 - 👨‍💻 My Portfolio: https://siratoonnahar.github.io/my-portfolio/
 - 📫 How to reach me: siratoonnahar@gmail.com
-- 💬 Ask me about HTML | CSS | JavaScript | React
+- 💬 Ask me about HTML | CSS | JavaScript | React | Node.js | SQL | Mongodb
 
 ## Connect with me:
 [![LinkedIn](https://raw.githubusercontent.com/SiratoonNahar/SiratoonNahar/refs/heads/master/icons8-linkedin.svg)](https://www.linkedin.com/in/siratoon-nahar-7a1302214/)
